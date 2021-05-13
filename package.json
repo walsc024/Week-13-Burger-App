@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "development": {
+    "username": "xhg8za9g5aoemkq7",
+    "password": "dry9v9ugydklixga",
+    "database": "syzn8w647cocyeqo",
+    "host": "ulsq0qqx999wqz84.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
